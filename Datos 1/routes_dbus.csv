@@ -1,0 +1,50 @@
+;route_id;agency_id;route_short_name;route_long_name;route_desc;route_type;route_url;route_color;route_text_color
+1;44;100;44;Estaciones Renfe-Bus Geltokiak;NA;3;NA;FFFFFF;8DC63F
+2;45;100;45;Estaciones Renfe-Bus Geltokiak- Antiguo-Aiete;NA;3;NA;FFFFFF;8DC63F
+3;46;100;46;San Antonio-Morlans;NA;3;NA;FFFFFF;8DC63F
+4;47;100;47;Atotxaerreka;NA;3;NA;FFFFFF;8DC63F
+5;110;100;B10;Zubiaurre-Bidebieta-Buenavista;NA;3;NA;FFFFFF;8DC63F
+6;111;100;B11;San Roque;NA;3;NA;FFFFFF;8DC63F
+7;112;100;B12;Aldakonea;NA;3;NA;FFFFFF;8DC63F
+8;113;100;B13;Rodil;NA;3;NA;FFFFFF;8DC63F
+9;114;100;B14;Mendigain-Zorroaga-Hospitales;NA;3;NA;FFFFFF;8DC63F
+10;13;100;13;Altza;NA;3;NA;FFFFFF;8DC63F
+11;14;100;14;Bidebieta;NA;3;NA;FFFFFF;8DC63F
+12;16;100;16;Igeldo;NA;3;NA;FFFFFF;8DC63F
+13;17;100;17;Gros-Amara-Miramón;NA;3;NA;FFFFFF;8DC63F
+14;18;100;18;Seminarioa;NA;3;NA;FFFFFF;8DC63F
+15;19;100;19;Aiete- Bera Bera;NA;3;NA;FFFFFF;8DC63F
+16;5;100;5;Benta Berri;NA;3;NA;FFFFFF;8DC63F
+17;6;100;TB6;Ulía;NA;3;NA;FFFFFF;8DC63F
+18;7;100;TB7;Atotxaerreka Itsasargi pasealekua;NA;3;NA;FFFFFF;8DC63F
+19;8;100;8;Gros-Intxaurrondo;NA;3;NA;FFFFFF;8DC63F
+20;9;100;9;Egia-Intxaurrondo;NA;3;NA;FFFFFF;8DC63F
+21;21;100;21;Mutualidades-Anoeta;NA;3;NA;FFFFFF;8DC63F
+22;23;100;23;Errondo-Puio;NA;3;NA;FFFFFF;8DC63F
+23;24;100;24;Altza-Gros-Antiguo;NA;3;NA;FFFFFF;8DC63F
+24;25;100;25;BentaBerri-Añorga;NA;3;NA;FFFFFF;8DC63F
+25;26;100;26;Amara-Martutene;NA;3;NA;FFFFFF;8DC63F
+26;27;100;27;Altza-Intxaurrondo-Antiguo;NA;3;NA;FFFFFF;8DC63F
+27;28;100;28;Amara-Ospitaleak;NA;3;NA;FFFFFF;8DC63F
+28;29;100;29;Intxaurrondo Sur;NA;3;NA;FFFFFF;8DC63F
+29;31;100;31;Intxaurrondo-Ospitaleak-Altza;NA;3;NA;FFFFFF;8DC63F
+30;32;100;32;Puio-Errondo;NA;3;NA;FFFFFF;8DC63F
+31;33;100;33;Larratxo-Intxaur-Antiguo-Berio;NA;3;NA;FFFFFF;8DC63F
+32;35;100;35;Arriola-Antiguo-Aiete-Ospitale;NA;3;NA;FFFFFF;8DC63F
+33;36;100;36;SanRoque-Aldakonea;NA;3;NA;FFFFFF;8DC63F
+34;37;100;37;Rodil-Zorroaga;NA;3;NA;FFFFFF;8DC63F
+35;38;100;38;Trintxerpe-Altza-Molinao;NA;3;NA;FFFFFF;8DC63F
+36;39;100;39;Urgull;NA;3;NA;FFFFFF;8DC63F
+37;101;100;B1;BentaBerri-Berio-Añorga;NA;3;NA;FFFFFF;8DC63F
+38;102;100;B2;Aiete-Bera Bera;NA;3;NA;FFFFFF;8DC63F
+39;103;100;B3;Egia-Intxaurrondo;NA;3;NA;FFFFFF;8DC63F
+40;104;100;B4;Amara-Riberas-Martutene;NA;3;NA;FFFFFF;8DC63F
+41;105;100;B5;Aiete-Oriamendi-Miramón;NA;3;NA;FFFFFF;8DC63F
+42;106;100;B6;Altza;NA;3;NA;FFFFFF;8DC63F
+43;107;100;B7;Igeldo;NA;3;NA;FFFFFF;8DC63F
+44;108;100;B8;Miraconcha-Benta Berri-Seminar;NA;3;NA;FFFFFF;8DC63F
+45;109;100;B9;Amara-Errondo-Puio;NA;3;NA;FFFFFF;8DC63F
+46;40;100;40;Gros-Antiguo-Igara;NA;3;NA;FFFFFF;8DC63F
+47;41;100;41;Gros-Egia-Martutene;NA;3;NA;FFFFFF;8DC63F
+48;42;100;42;Aldapa - Egia;NA;3;NA;FFFFFF;8DC63F
+49;43;100;43;Anoeta-Igara;NA;3;NA;FFFFFF;8DC63F
