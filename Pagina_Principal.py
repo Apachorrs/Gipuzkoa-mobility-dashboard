@@ -169,7 +169,7 @@ with cols[2]:
     create_option_card(
         "🚦", 
         "Traffic Networks", 
-        "Analyze urban traffic flow, congestion levels, and connectivity patterns across Gipuzkoa", 
+        "Analyze urban traffic flow and connectivity patterns across Gipuzkoa", 
         "Analyze", 
         "Traffic_networks.py"
     )
