@@ -160,7 +160,7 @@ with cols[1]:
     create_option_card(
         "🌍", 
         "Travel Time Heat Map", 
-        "Interactive heat map to detect delays and bottlenecks.", 
+        "Interactive heat map to detect delays and bottlenecks", 
         "View Map", 
         "Interactive_map.py"
     )
@@ -169,7 +169,7 @@ with cols[2]:
     create_option_card(
         "🚦", 
         "Traffic Networks", 
-        "Detailed traffic analysis and patterns", 
+        "Analyze urban traffic flow, congestion levels, and connectivity patterns across Gipuzkoa", 
         "Analyze", 
         "Traffic_networks.py"
     )
