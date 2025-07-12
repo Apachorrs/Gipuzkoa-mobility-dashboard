@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/
+
+# Visual Studio Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# CSV and log files (puedes quitar esto si quieres subir tus datos)
+*.log
