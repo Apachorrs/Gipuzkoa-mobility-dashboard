@@ -5,7 +5,5 @@ seaborn
 matplotlib
 folium
 streamlit_folium
-plotly.express
-datetime
+plotly
 geopy
-calendar
